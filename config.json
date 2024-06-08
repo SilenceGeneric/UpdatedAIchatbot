@@ -1,0 +1,6 @@
+{
+    "prompt": "Hello, how can I help you today?",
+    "temperature": 0.5,
+    "max_tokens": 50,
+    "engine": "davinci"
+}
